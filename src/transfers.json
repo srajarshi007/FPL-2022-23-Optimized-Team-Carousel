@@ -1,0 +1,758 @@
+[
+    {
+        "GW": 2,
+        "Transferred_Out": {
+            "Name": "Fabian Sch\u00c3\u00a4r",
+            "Position": "DEF",
+            "Team": "Newcastle",
+            "TeamCSS": "Newcastle",
+            "ID": "Fabian Sch\u00c3\u00a4rNewcastleDEF",
+            "Predicted_Points": 2.4554455445544554,
+            "Cost": 46
+        },
+        "Transferred_In": {
+            "Name": "Kieran Trippier",
+            "Position": "DEF",
+            "Team": "Newcastle",
+            "TeamCSS": "Newcastle",
+            "ID": "Kieran TrippierNewcastleDEF",
+            "Predicted_Points": 2.217821782178218,
+            "Cost": 61
+        }
+    },
+    {
+        "GW": 3,
+        "Transferred_Out": {
+            "Name": "Rodrigo Moreno",
+            "Position": "MID",
+            "Team": "Leeds",
+            "TeamCSS": "leeds-united",
+            "ID": "Rodrigo MorenoLeedsMID",
+            "Predicted_Points": 3.9504950495049505,
+            "Cost": 62
+        },
+        "Transferred_In": {
+            "Name": "Bernardo Veiga de Carvalho e Silva",
+            "Position": "MID",
+            "Team": "Man City",
+            "TeamCSS": "manchester-city",
+            "ID": "Bernardo Veiga de Carvalho e SilvaMan CityMID",
+            "Predicted_Points": 2.6930693069306932,
+            "Cost": 70
+        }
+    },
+    {
+        "GW": 4,
+        "Transferred_Out": {
+            "Name": "Ivan Toney",
+            "Position": "FWD",
+            "Team": "Brentford",
+            "TeamCSS": "brentford",
+            "ID": "Ivan ToneyBrentfordFWD",
+            "Predicted_Points": 4.306930693069307,
+            "Cost": 72
+        },
+        "Transferred_In": {
+            "Name": "Roberto Firmino",
+            "Position": "FWD",
+            "Team": "Liverpool",
+            "TeamCSS": "liverpool",
+            "ID": "Roberto FirminoLiverpoolFWD",
+            "Predicted_Points": 3.9405940594059405,
+            "Cost": 79
+        }
+    },
+    {
+        "GW": 5,
+        "Transferred_Out": {
+            "Name": "Pascal Gro\u00c3\u009f",
+            "Position": "MID",
+            "Team": "Brighton",
+            "TeamCSS": "brighton",
+            "ID": "Pascal Gro\u00c3\u009fBrightonMID",
+            "Predicted_Points": 2.0693069306930694,
+            "Cost": 58
+        },
+        "Transferred_In": {
+            "Name": "Alexis Mac Allister",
+            "Position": "MID",
+            "Team": "Brighton",
+            "TeamCSS": "brighton",
+            "ID": "Alexis Mac AllisterBrightonMID",
+            "Predicted_Points": 1.2178217821782178,
+            "Cost": 57
+        }
+    },
+    {
+        "GW": 6,
+        "Transferred_Out": {
+            "Name": "Mohamed Salah",
+            "Position": "MID",
+            "Team": "Liverpool",
+            "TeamCSS": "liverpool",
+            "ID": "Mohamed SalahLiverpoolMID",
+            "Predicted_Points": 2.712871287128713,
+            "Cost": 130
+        },
+        "Transferred_In": {
+            "Name": "Leandro Trossard",
+            "Position": "MID",
+            "Team": "Brighton",
+            "TeamCSS": "brighton",
+            "ID": "Leandro TrossardBrightonMID",
+            "Predicted_Points": 4.237623762376238,
+            "Cost": 68
+        }
+    },
+    {
+        "GW": 7,
+        "Transferred_Out": {
+            "Name": "Alexis Mac Allister",
+            "Position": "MID",
+            "Team": "Brighton",
+            "TeamCSS": "brighton",
+            "ID": "Alexis Mac AllisterBrightonMID",
+            "Predicted_Points": 1.2178217821782178,
+            "Cost": 57
+        },
+        "Transferred_In": {
+            "Name": "Miguel Almir\u00c3\u00b3n Rejala",
+            "Position": "MID",
+            "Team": "Newcastle",
+            "TeamCSS": "Newcastle",
+            "ID": "Miguel Almir\u00c3\u00b3n RejalaNewcastleMID",
+            "Predicted_Points": 3.0792079207920793,
+            "Cost": 59
+        }
+    },
+    {
+        "GW": 8,
+        "Transferred_Out": {
+            "Name": "Roberto Firmino",
+            "Position": "FWD",
+            "Team": "Liverpool",
+            "TeamCSS": "liverpool",
+            "ID": "Roberto FirminoLiverpoolFWD",
+            "Predicted_Points": 3.9405940594059405,
+            "Cost": 79
+        },
+        "Transferred_In": {
+            "Name": "Harry Kane",
+            "Position": "FWD",
+            "Team": "Spurs",
+            "TeamCSS": "tottenham-hotspur",
+            "ID": "Harry KaneSpursFWD",
+            "Predicted_Points": 10.767441860465116,
+            "Cost": 114
+        }
+    },
+    {
+        "GW": 9,
+        "Transferred_Out": {
+            "Name": "William Saliba",
+            "Position": "DEF",
+            "Team": "Arsenal",
+            "TeamCSS": "arsenal",
+            "ID": "William SalibaArsenalDEF",
+            "Predicted_Points": 2.6831683168316833,
+            "Cost": 49
+        },
+        "Transferred_In": {
+            "Name": "Timothy Castagne",
+            "Position": "DEF",
+            "Team": "Leicester",
+            "TeamCSS": "leicester-city",
+            "ID": "Timothy CastagneLeicesterDEF",
+            "Predicted_Points": 2.3465346534653464,
+            "Cost": 47
+        }
+    },
+    {
+        "GW": 10,
+        "Transferred_Out": {
+            "Name": "Bernardo Veiga de Carvalho e Silva",
+            "Position": "MID",
+            "Team": "Man City",
+            "TeamCSS": "manchester-city",
+            "ID": "Bernardo Veiga de Carvalho e SilvaMan CityMID",
+            "Predicted_Points": 2.6930693069306932,
+            "Cost": 70
+        },
+        "Transferred_In": {
+            "Name": "Mason Mount",
+            "Position": "MID",
+            "Team": "Chelsea",
+            "TeamCSS": "chelsea",
+            "ID": "Mason MountChelseaMID",
+            "Predicted_Points": 2.99009900990099,
+            "Cost": 77
+        }
+    },
+    {
+        "GW": 11,
+        "Transferred_Out": {
+            "Name": "Nick Pope",
+            "Position": "GK",
+            "Team": "Newcastle",
+            "TeamCSS": "Newcastle",
+            "ID": "Nick PopeNewcastleGK",
+            "Predicted_Points": 5.099009900990099,
+            "Cost": 53
+        },
+        "Transferred_In": {
+            "Name": "Alisson Ramses Becker",
+            "Position": "GK",
+            "Team": "Liverpool",
+            "TeamCSS": "liverpool",
+            "ID": "Alisson Ramses BeckerLiverpoolGK",
+            "Predicted_Points": 2.762376237623762,
+            "Cost": 54
+        }
+    },
+    {
+        "GW": 12,
+        "Transferred_Out": {
+            "Name": "Mason Mount",
+            "Position": "MID",
+            "Team": "Chelsea",
+            "TeamCSS": "chelsea",
+            "ID": "Mason MountChelseaMID",
+            "Predicted_Points": 2.99009900990099,
+            "Cost": 77
+        },
+        "Transferred_In": {
+            "Name": "Harvey Barnes",
+            "Position": "MID",
+            "Team": "Leicester",
+            "TeamCSS": "leicester-city",
+            "ID": "Harvey BarnesLeicesterMID",
+            "Predicted_Points": 3.1881188118811883,
+            "Cost": 69
+        }
+    },
+    {
+        "GW": 13,
+        "Transferred_Out": {
+            "Name": "Leandro Trossard",
+            "Position": "MID",
+            "Team": "Brighton",
+            "TeamCSS": "brighton",
+            "ID": "Leandro TrossardBrightonMID",
+            "Predicted_Points": 4.237623762376238,
+            "Cost": 68
+        },
+        "Transferred_In": {
+            "Name": "Martin \u00c3\u0098degaard",
+            "Position": "MID",
+            "Team": "Arsenal",
+            "TeamCSS": "arsenal",
+            "ID": "Martin \u00c3\u0098degaardArsenalMID",
+            "Predicted_Points": 2.4186046511627906,
+            "Cost": 68
+        }
+    },
+    {
+        "GW": 14,
+        "Transferred_Out": {
+            "Name": "Alisson Ramses Becker",
+            "Position": "GK",
+            "Team": "Liverpool",
+            "TeamCSS": "liverpool",
+            "ID": "Alisson Ramses BeckerLiverpoolGK",
+            "Predicted_Points": 2.762376237623762,
+            "Cost": 54
+        },
+        "Transferred_In": {
+            "Name": "Bernd Leno",
+            "Position": "GK",
+            "Team": "Fulham",
+            "TeamCSS": "fulham",
+            "ID": "Bernd LenoFulhamGK",
+            "Predicted_Points": 4.1683168316831685,
+            "Cost": 45
+        }
+    },
+    {
+        "GW": 15,
+        "Transferred_Out": {
+            "Name": "Kevin De Bruyne",
+            "Position": "MID",
+            "Team": "Man City",
+            "TeamCSS": "manchester-city",
+            "ID": "Kevin De BruyneMan CityMID",
+            "Predicted_Points": 3.910891089108911,
+            "Cost": 125
+        },
+        "Transferred_In": {
+            "Name": "Mohamed Salah",
+            "Position": "MID",
+            "Team": "Liverpool",
+            "TeamCSS": "liverpool",
+            "ID": "Mohamed SalahLiverpoolMID",
+            "Predicted_Points": 5.0,
+            "Cost": 131
+        }
+    },
+    {
+        "GW": 16,
+        "Transferred_Out": {
+            "Name": "Timothy Castagne",
+            "Position": "DEF",
+            "Team": "Leicester",
+            "TeamCSS": "leicester-city",
+            "ID": "Timothy CastagneLeicesterDEF",
+            "Predicted_Points": 2.3465346534653464,
+            "Cost": 47
+        },
+        "Transferred_In": {
+            "Name": "Luke Shaw",
+            "Position": "DEF",
+            "Team": "Man Utd",
+            "TeamCSS": "manchester-united",
+            "ID": "Luke ShawMan UtdDEF",
+            "Predicted_Points": 2.01980198019802,
+            "Cost": 54
+        }
+    },
+    {
+        "GW": 17,
+        "Transferred_Out": {
+            "Name": "Harvey Barnes",
+            "Position": "MID",
+            "Team": "Leicester",
+            "TeamCSS": "leicester-city",
+            "ID": "Harvey BarnesLeicesterMID",
+            "Predicted_Points": 3.1881188118811883,
+            "Cost": 69
+        },
+        "Transferred_In": {
+            "Name": "Marcus Rashford",
+            "Position": "MID",
+            "Team": "Man Utd",
+            "TeamCSS": "manchester-united",
+            "ID": "Marcus RashfordMan UtdMID",
+            "Predicted_Points": 3.5306122448979593,
+            "Cost": 72
+        }
+    },
+    {
+        "GW": 18,
+        "Transferred_Out": {
+            "Name": "Miguel Almir\u00c3\u00b3n Rejala",
+            "Position": "MID",
+            "Team": "Newcastle",
+            "TeamCSS": "Newcastle",
+            "ID": "Miguel Almir\u00c3\u00b3n RejalaNewcastleMID",
+            "Predicted_Points": 3.0792079207920793,
+            "Cost": 59
+        },
+        "Transferred_In": {
+            "Name": "Bruno Borges Fernandes",
+            "Position": "MID",
+            "Team": "Man Utd",
+            "TeamCSS": "manchester-united",
+            "ID": "Bruno Borges FernandesMan UtdMID",
+            "Predicted_Points": 3.8316831683168315,
+            "Cost": 99
+        }
+    },
+    {
+        "GW": 19,
+        "Transferred_Out": {
+            "Name": "Gabriel Martinelli Silva",
+            "Position": "MID",
+            "Team": "Arsenal",
+            "TeamCSS": "arsenal",
+            "ID": "Gabriel Martinelli SilvaArsenalMID",
+            "Predicted_Points": 4.336633663366337,
+            "Cost": 68
+        },
+        "Transferred_In": {
+            "Name": "Solly March",
+            "Position": "MID",
+            "Team": "Brighton",
+            "TeamCSS": "brighton",
+            "ID": "Solly MarchBrightonMID",
+            "Predicted_Points": 3.871287128712871,
+            "Cost": 51
+        }
+    },
+    {
+        "GW": 20,
+        "Transferred_Out": {
+            "Name": "Bernd Leno",
+            "Position": "GK",
+            "Team": "Fulham",
+            "TeamCSS": "fulham",
+            "ID": "Bernd LenoFulhamGK",
+            "Predicted_Points": 4.1683168316831685,
+            "Cost": 45
+        },
+        "Transferred_In": {
+            "Name": "Kepa Arrizabalaga",
+            "Position": "GK",
+            "Team": "Chelsea",
+            "TeamCSS": "chelsea",
+            "ID": "Kepa ArrizabalagaChelseaGK",
+            "Predicted_Points": 4.00990099009901,
+            "Cost": 47
+        }
+    },
+    {
+        "GW": 21,
+        "Transferred_Out": {
+            "Name": "Solly March",
+            "Position": "MID",
+            "Team": "Brighton",
+            "TeamCSS": "brighton",
+            "ID": "Solly MarchBrightonMID",
+            "Predicted_Points": 3.871287128712871,
+            "Cost": 51
+        },
+        "Transferred_In": {
+            "Name": "Bukayo Saka",
+            "Position": "MID",
+            "Team": "Arsenal",
+            "TeamCSS": "arsenal",
+            "ID": "Bukayo SakaArsenalMID",
+            "Predicted_Points": 0,
+            "Cost": 80
+        }
+    },
+    {
+        "GW": 22,
+        "Transferred_Out": {
+            "Name": "Kieran Trippier",
+            "Position": "DEF",
+            "Team": "Newcastle",
+            "TeamCSS": "Newcastle",
+            "ID": "Kieran TrippierNewcastleDEF",
+            "Predicted_Points": 2.217821782178218,
+            "Cost": 61
+        },
+        "Transferred_In": {
+            "Name": "James Tarkowski",
+            "Position": "DEF",
+            "Team": "Everton",
+            "TeamCSS": "everton",
+            "ID": "James TarkowskiEvertonDEF",
+            "Predicted_Points": 2.2475247524752477,
+            "Cost": 44
+        }
+    },
+    {
+        "GW": 23,
+        "Transferred_Out": {
+            "Name": "Bruno Borges Fernandes",
+            "Position": "MID",
+            "Team": "Man Utd",
+            "TeamCSS": "manchester-united",
+            "ID": "Bruno Borges FernandesMan UtdMID",
+            "Predicted_Points": 3.8316831683168315,
+            "Cost": 99
+        },
+        "Transferred_In": {
+            "Name": "Gabriel Martinelli Silva",
+            "Position": "MID",
+            "Team": "Arsenal",
+            "TeamCSS": "arsenal",
+            "ID": "Gabriel Martinelli SilvaArsenalMID",
+            "Predicted_Points": 3.617021276595745,
+            "Cost": 69
+        }
+    },
+    {
+        "GW": 24,
+        "Transferred_Out": {
+            "Name": "Luke Shaw",
+            "Position": "DEF",
+            "Team": "Man Utd",
+            "TeamCSS": "manchester-united",
+            "ID": "Luke ShawMan UtdDEF",
+            "Predicted_Points": 2.01980198019802,
+            "Cost": 54
+        },
+        "Transferred_In": {
+            "Name": "Trent Alexander-Arnold",
+            "Position": "DEF",
+            "Team": "Liverpool",
+            "TeamCSS": "liverpool",
+            "ID": "Trent Alexander-ArnoldLiverpoolDEF",
+            "Predicted_Points": 2.255813953488372,
+            "Cost": 77
+        }
+    },
+    {
+        "GW": 25,
+        "Transferred_Out": {
+            "Name": "James Tarkowski",
+            "Position": "DEF",
+            "Team": "Everton",
+            "TeamCSS": "everton",
+            "ID": "James TarkowskiEvertonDEF",
+            "Predicted_Points": 2.2475247524752477,
+            "Cost": 44
+        },
+        "Transferred_In": {
+            "Name": "Virgil van Dijk",
+            "Position": "DEF",
+            "Team": "Liverpool",
+            "TeamCSS": "liverpool",
+            "ID": "Virgil van DijkLiverpoolDEF",
+            "Predicted_Points": 1.1627906976744187,
+            "Cost": 66
+        }
+    },
+    {
+        "GW": 26,
+        "Transferred_Out": {
+            "Name": "Bukayo Saka",
+            "Position": "MID",
+            "Team": "Arsenal",
+            "TeamCSS": "arsenal",
+            "ID": "Bukayo SakaArsenalMID",
+            "Predicted_Points": 0,
+            "Cost": 80
+        },
+        "Transferred_In": {
+            "Name": "Kaoru Mitoma",
+            "Position": "MID",
+            "Team": "Brighton",
+            "TeamCSS": "brighton",
+            "ID": "Kaoru MitomaBrightonMID",
+            "Predicted_Points": 2.5,
+            "Cost": 56
+        }
+    },
+    {
+        "GW": 27,
+        "Transferred_Out": {
+            "Name": "Neco Williams",
+            "Position": "DEF",
+            "Team": "Nott'm Forest",
+            "TeamCSS": "not-forest",
+            "ID": "Neco WilliamsNott'm ForestDEF",
+            "Predicted_Points": 1.4356435643564356,
+            "Cost": 39
+        },
+        "Transferred_In": {
+            "Name": "Tyrone Mings",
+            "Position": "DEF",
+            "Team": "Aston Villa",
+            "TeamCSS": "aston-villa",
+            "ID": "Tyrone MingsAston VillaDEF",
+            "Predicted_Points": 1.0,
+            "Cost": 48
+        }
+    },
+    {
+        "GW": 28,
+        "Transferred_Out": {
+            "Name": "Ben Davies",
+            "Position": "DEF",
+            "Team": "Spurs",
+            "TeamCSS": "tottenham-hotspur",
+            "ID": "Ben DaviesSpursDEF",
+            "Predicted_Points": 0,
+            "Cost": 50
+        },
+        "Transferred_In": {
+            "Name": "Alexandre Moreno Lopera",
+            "Position": "DEF",
+            "Team": "Aston Villa",
+            "TeamCSS": "aston-villa",
+            "ID": "Alexandre Moreno LoperaAston VillaDEF",
+            "Predicted_Points": 1.6,
+            "Cost": 45
+        }
+    },
+    {
+        "GW": 29,
+        "Transferred_Out": {
+            "Name": "Kepa Arrizabalaga",
+            "Position": "GK",
+            "Team": "Chelsea",
+            "TeamCSS": "chelsea",
+            "ID": "Kepa ArrizabalagaChelseaGK",
+            "Predicted_Points": 4.00990099009901,
+            "Cost": 47
+        },
+        "Transferred_In": {
+            "Name": "Emiliano Mart\u00c3\u00adnez Romero",
+            "Position": "GK",
+            "Team": "Aston Villa",
+            "TeamCSS": "aston-villa",
+            "ID": "Emiliano Mart\u00c3\u00adnez RomeroAston VillaGK",
+            "Predicted_Points": 3.147727272727273,
+            "Cost": 50
+        }
+    },
+    {
+        "GW": 30,
+        "Transferred_Out": {
+            "Name": "Kaoru Mitoma",
+            "Position": "MID",
+            "Team": "Brighton",
+            "TeamCSS": "brighton",
+            "ID": "Kaoru MitomaBrightonMID",
+            "Predicted_Points": 2.5,
+            "Cost": 56
+        },
+        "Transferred_In": {
+            "Name": "Eberechi Eze",
+            "Position": "MID",
+            "Team": "Crystal Palace",
+            "TeamCSS": "crystal-palace",
+            "ID": "Eberechi EzeCrystal PalaceMID",
+            "Predicted_Points": 3.744186046511628,
+            "Cost": 56
+        }
+    },
+    {
+        "GW": 31,
+        "Transferred_Out": {
+            "Name": "Marcus Rashford",
+            "Position": "MID",
+            "Team": "Man Utd",
+            "TeamCSS": "manchester-united",
+            "ID": "Marcus RashfordMan UtdMID",
+            "Predicted_Points": 3.5306122448979593,
+            "Cost": 72
+        },
+        "Transferred_In": {
+            "Name": "Dwight McNeil",
+            "Position": "MID",
+            "Team": "Everton",
+            "TeamCSS": "everton",
+            "ID": "Dwight McNeilEvertonMID",
+            "Predicted_Points": 2.2586206896551726,
+            "Cost": 51
+        }
+    },
+    {
+        "GW": 32,
+        "Transferred_Out": {
+            "Name": "Gabriel Martinelli Silva",
+            "Position": "MID",
+            "Team": "Arsenal",
+            "TeamCSS": "arsenal",
+            "ID": "Gabriel Martinelli SilvaArsenalMID",
+            "Predicted_Points": 3.617021276595745,
+            "Cost": 69
+        },
+        "Transferred_In": {
+            "Name": "Morgan Gibbs-White",
+            "Position": "MID",
+            "Team": "Nott'm Forest",
+            "TeamCSS": "not-forest",
+            "ID": "Morgan Gibbs-WhiteNott'm ForestMID",
+            "Predicted_Points": 4.5813953488372094,
+            "Cost": 55
+        }
+    },
+    {
+        "GW": 33,
+        "Transferred_Out": {
+            "Name": "Emiliano Mart\u00c3\u00adnez Romero",
+            "Position": "GK",
+            "Team": "Aston Villa",
+            "TeamCSS": "aston-villa",
+            "ID": "Emiliano Mart\u00c3\u00adnez RomeroAston VillaGK",
+            "Predicted_Points": 3.147727272727273,
+            "Cost": 50
+        },
+        "Transferred_In": {
+            "Name": "Jason Steele",
+            "Position": "GK",
+            "Team": "Brighton",
+            "TeamCSS": "brighton",
+            "ID": "Jason SteeleBrightonGK",
+            "Predicted_Points": 3.744186046511628,
+            "Cost": 40
+        }
+    },
+    {
+        "GW": 34,
+        "Transferred_Out": {
+            "Name": "Alexandre Moreno Lopera",
+            "Position": "DEF",
+            "Team": "Aston Villa",
+            "TeamCSS": "aston-villa",
+            "ID": "Alexandre Moreno LoperaAston VillaDEF",
+            "Predicted_Points": 1.6,
+            "Cost": 45
+        },
+        "Transferred_In": {
+            "Name": "Pervis Estupi\u00c3\u00b1\u00c3\u00a1n",
+            "Position": "DEF",
+            "Team": "Brighton",
+            "TeamCSS": "brighton",
+            "ID": "Pervis Estupi\u00c3\u00b1\u00c3\u00a1nBrightonDEF",
+            "Predicted_Points": 2.744186046511628,
+            "Cost": 50
+        }
+    },
+    {
+        "GW": 35,
+        "Transferred_Out": {
+            "Name": "Erling Haaland",
+            "Position": "FWD",
+            "Team": "Man City",
+            "TeamCSS": "manchester-city",
+            "ID": "Erling HaalandMan CityFWD",
+            "Predicted_Points": 3.8,
+            "Cost": 124
+        },
+        "Transferred_In": {
+            "Name": "Taiwo Awoniyi",
+            "Position": "FWD",
+            "Team": "Nott'm Forest",
+            "TeamCSS": "not-forest",
+            "ID": "Taiwo AwoniyiNott'm ForestFWD",
+            "Predicted_Points": 6.837209302325581,
+            "Cost": 56
+        }
+    },
+    {
+        "GW": 36,
+        "Transferred_Out": {
+            "Name": "Dwight McNeil",
+            "Position": "MID",
+            "Team": "Everton",
+            "TeamCSS": "everton",
+            "ID": "Dwight McNeilEvertonMID",
+            "Predicted_Points": 2.2586206896551726,
+            "Cost": 51
+        },
+        "Transferred_In": {
+            "Name": "Douglas Luiz Soares de Paulo",
+            "Position": "MID",
+            "Team": "Aston Villa",
+            "TeamCSS": "aston-villa",
+            "ID": "Douglas Luiz Soares de PauloAston VillaMID",
+            "Predicted_Points": 8.162790697674419,
+            "Cost": 48
+        }
+    },
+    {
+        "GW": 37,
+        "Transferred_Out": {
+            "Name": "Martin \u00c3\u0098degaard",
+            "Position": "MID",
+            "Team": "Arsenal",
+            "TeamCSS": "arsenal",
+            "ID": "Martin \u00c3\u0098degaardArsenalMID",
+            "Predicted_Points": 2.4186046511627906,
+            "Cost": 68
+        },
+        "Transferred_In": {
+            "Name": "Bruno Borges Fernandes",
+            "Position": "MID",
+            "Team": "Man Utd",
+            "TeamCSS": "manchester-united",
+            "ID": "Bruno Borges FernandesMan UtdMID",
+            "Predicted_Points": 10.581395348837209,
+            "Cost": 95
+        }
+    }
+]
