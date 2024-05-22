@@ -136,7 +136,7 @@ img{
 /* ['Fulham', 'Arsenal', 'Aston Villa', 'West Ham', 'Southampton', 'Leicester', 'Crystal Palace', 'Spurs', "Nott'm Forest", 'Everton', 'Leeds', 'Liverpool', 'Man City', 'Newcastle', 'Bournemouth', 'Wolves', 'Chelsea', 'Brighton', 'Man Utd',Â 'Brentford'] */
 .arsenal {
     background-color: #EF0107; /* Red */
-    border-color: #ffffff; /* Navy Blue */
+    border-color: #171ace; /* Navy Blue */
   }
   
   /* Aston Villa */
@@ -206,7 +206,7 @@ img{
   /* Liverpool */
   .liverpool {
     background-color: #C8102E; /* Red */
-    border-color: #fbfafa; /* Red */
+    border-color: #791818; /* Red */
   }
   
   /* Manchester City */

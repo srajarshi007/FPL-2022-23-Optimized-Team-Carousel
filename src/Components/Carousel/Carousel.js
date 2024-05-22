@@ -15,15 +15,17 @@ const Carousel = ({data}) => {
     const items = data.data.map((item,idx)=>(
         <div className='carouselItem'>
             <div className='left'>
-                <h1>Game Week - {item.GW}</h1>
-                <h3>Captain(2x points) - {item.Captain}</h3>
-                <h3>Vice Captain - {item.Vice_Captain}</h3>
-                <h3>Predicted_Total_Points - {item.Predicted_Total_Points}</h3>
-                <h3>Actual_Total_Points - {item.Actual_Total_Points}</h3>
-                <h3>Total XI cost - {item.XI_Cost}</h3>
-                <h3>Predicted_Bench_Points - {item.Predicted_Bench_Points}</h3>
-                <h3>Bench_value - {item.Bench_value}</h3>
-                <h3>Remaining_budget - {item.Remaining_budget}</h3>
+                <h1>Game Week : {item.GW}</h1>
+                <h3>Captain(2x points) : {item.Captain}</h3>
+                <h3>Vice Captain : {item.Vice_Captain}</h3>
+                <h3>Predicted_Total_Points : {item.Predicted_Total_Points}</h3>
+                <h3>Actual_Total_Points : {item.Actual_Total_Points}</h3>
+                <h3>Total XI cost : {item.XI_Cost}</h3>
+                <h3>Predicted_Bench_Points : {item.Predicted_Bench_Points}</h3>
+                <h3>Bench_value : {item.Bench_value}</h3>
+                <h3>Remaining_budget : {item.Remaining_budget}</h3>
+                <h3>Played GameChip: {item.GameChip?item.GameChip:"NA"}</h3>
+                <h3>GameChip Advantage Predicted: {item.GameChip_Gain?item.GameChip_Gain:"-"}</h3>
             </div>
             <div className='middle'>
                 <img src={myImage} alt="My Image" />

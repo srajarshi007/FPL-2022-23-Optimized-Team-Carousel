@@ -248,8 +248,8 @@
         },
         "Captain": "Erling Haaland",
         "Vice_Captain": "Rodrigo Moreno",
-        "Predicted_Total_Points": 72.73267326732673,
-        "Actual_Total_Points": 85,
+        "Predicted_Total_Points": 85.73267326732673,
+        "Actual_Total_Points": 98,
         "XI_Cost": 803,
         "Bench": [
             {
@@ -309,7 +309,9 @@
             "ID": "Kieran TrippierNewcastleDEF",
             "Predicted_Points": 2.217821782178218,
             "Cost": 61
-        }
+        },
+        "GameChip": "Bench Boost",
+        "GameChip_Gain": 13.0
     },
     {
         "GW": 3,
@@ -578,8 +580,8 @@
         },
         "Captain": "Erling Haaland",
         "Vice_Captain": "Roberto Firmino",
-        "Predicted_Total_Points": 68.5049504950495,
-        "Actual_Total_Points": 101,
+        "Predicted_Total_Points": 84.5049504950495,
+        "Actual_Total_Points": 117,
         "XI_Cost": 835,
         "Bench": [
             {
@@ -639,7 +641,9 @@
             "ID": "Roberto FirminoLiverpoolFWD",
             "Predicted_Points": 3.9405940594059405,
             "Cost": 79
-        }
+        },
+        "GameChip": "Triple Captain",
+        "GameChip_Gain": 16.0
     },
     {
         "GW": 5,
@@ -1074,7 +1078,7 @@
         "Captain": "Erling Haaland",
         "Vice_Captain": "Miguel Almir\u00c3\u00b3n Rejala",
         "Predicted_Total_Points": 52.5940594059406,
-        "Actual_Total_Points": 6.2772277227722775,
+        "Actual_Total_Points": 0,
         "XI_Cost": 770,
         "Bench": [
             {
@@ -6231,6 +6235,8 @@
         ],
         "Predicted_Bench_Points": 13.0,
         "Bench_value": 162,
-        "Remaining_budget": 161
+        "Remaining_budget": 161,
+        "GameChip": "Wild Card",
+        "GameChip_Gain": 82.65116279069767
     }
 ]
